@@ -10,6 +10,17 @@ I mainly delve in Javascript/Typescript and Python but I am always learning more
 
 Here are some of my projects that I have to show off! Some of these are in repositiories here on GitHub and you can check out the source code.
 
+### Tic-Tac-Toe Demo with Minimax Opponent
+[Demo](https://frc.baxleys.org/MinimaxTicTacToe/)
+
+Tic-tac-toe, noughts and crosses, Xs and Os, whatever you want to call it.
+This is a demo of an implementation I did which uses the minimax algorithm optimized with alpha-beta pruning to pin you against a computer opponent.
+Unfortunately for the human player, it is pretty much impossible to win. You can really only lose or tie here.
+It's a testament to the power of AI! ...or optimized bruteforcing.
+Either way, I think it's impressive!
+
+[GitHub repository](https://github.com/noahBax/Minimax-Tic-Tac-Toe-Implementation)
+
 ### Sheep Game
 [Demo](https://frc.baxleys.org/sheepGame/)
 
@@ -27,17 +38,6 @@ It's got it's own version of a physics engine, I'm working on multiplayer for on
 
 This is something I'm rather proud of if I'm being honest. It's a game that I've worked on for some time now and it's gone through a few revisions since I started working on it.
 I've learned a lot in college and in other projects along the way that I can apply to it and it's exciting that I get to apply my new knowledge to something I feel strongly about.
-
-### Tic-Tac-Toe Demo with Minimax Opponent
-[Demo](https://frc.baxleys.org/MinimaxTicTacToe/)
-
-Tic-tac-toe, noughts and crosses, Xs and Os, whatever you want to call it.
-This is a demo of an implementation I did which uses the minimax algorithm optimized with alpha-beta pruning to pin you against a computer opponent.
-Unfortunately for the human player, it is pretty much impossible to win. You can really only lose or tie here.
-It's a testament to the power of AI! ...or optimized bruteforcing.
-Either way, I think it's impressive!
-
-[GitHub repository](https://github.com/noahBax/Minimax-Tic-Tac-Toe-Implementation)
 
 <!--
 Here are some ideas to get you started:
