@@ -8,11 +8,11 @@ Let me show you some of my projects! Some of these are in repositories here on G
 ### Tetris Artificial Intelligence
 [Demo](https://frc.baxleys.org/Tetris/) - [GitHub repository](https://github.com/noahBax/Tetris-AI-Trainer)
 
+<img src="/images/Tetris Game Screenshot Updated.png" alt="Screenshot from my Tetris game" height="350">
+
 The demo links to a Tetris AI that I built. I trained my AI using an unsupervised genetic algorithm that I wrote in C++.
 This was something small I did just to prove to myself that I could, but it is also something cool I want to show off.
 If I'm being honest though, I built this to overcompensate for my lack of actual skill at Tetris.
-
-<img src="/images/Tetris Game Screenshot Updated.png" alt="Screenshot from my Tetris game" height="350">
 
 ### Tic-Tac-Toe with Artificial Intelligence Opponent
 [Demo](https://frc.baxleys.org/MinimaxTicTacToe/) - [GitHub repository](https://github.com/noahBax/Minimax-Tic-Tac-Toe-Implementation)
@@ -24,11 +24,12 @@ does. You can really only lose or tie. Feel free to try though...
 ### Sheep Game: A Multiplayer Online Fighting Game
 [Demo](https://frc.baxleys.org/sheepGame/)
 
-Sheep Game is a game whose eventual goal is to be similar to the Nintendo game **Super Smash Bros**.
-The goal is to eventually have a slew of characters with different abilities and a plethora of items that make the game its own and stand out.
-It's a game that I'm always getting new ideas for, and it feels good to be able to actually implement them.
-
 <img src="https://github.com/noahBax/noahBax/blob/main/images/sheep1.png" width="420"><img src="https://github.com/noahBax/noahBax/blob/main/images/sheep2.png" width="420">
+
+Sheep Game is a game whose eventual goal is to be similar to the Nintendo game **"Super Smash Bros"**.
+The goal is to eventually have a slew of characters with different abilities and a plethora of items that make the game its own and stand out.
+It's one of my longer term projects and it's something that I'm always getting new ideas for, and it feels good to be able to actually implement them somewhere like this.
+
 
 
 <!--At this point it might look like something you could find on a youtube tutorial titled "how to make a platformer video game in 1 hour" but I assure you there is more to it than that.
