@@ -1,6 +1,6 @@
 ## About me
 I'm currently a student at Illinois Institute of Technology in Chicago, Illinois studying artificial intelligence. My skillset is largely in software design.
-I am most experienced in JavaScript/TypeScript and Python, but I am always learning more.
+I am most experienced in JavaScript/TypeScript, HTML, CSS and Python, but I am always learning more.
 
 ## What I've Done
 Let me show you some of my projects! Some of these are in repositories here on GitHub and you can check out the source code.
