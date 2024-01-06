@@ -26,8 +26,8 @@ does. You can really only lose or tie. Feel free to try though...
 
 <img src="https://github.com/noahBax/noahBax/blob/main/images/sheep1.png" width="420"><img src="https://github.com/noahBax/noahBax/blob/main/images/sheep2.png" width="420">
 
-Sheep Game is a game whose eventual goal is to be similar to the Nintendo game **"Super Smash Bros"**.
-The goal is to eventually have a slew of characters with different abilities and a plethora of items that make the game its own and stand out.
+Sheep Game is a game that I'm designing to be similar to the Nintendo game "Super Smash Bros".
+It might be lofty, but the goal is to eventually have a slew of characters with different abilities and a plethora of items that make the game its own and stand out.
 It's one of my longer term projects and it's something that I'm always getting new ideas for, and it feels good to be able to actually implement them somewhere like this.
 
 
