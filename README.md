@@ -17,6 +17,8 @@ If I'm being honest though, I built this to overcompensate for my lack of actual
 ### Tic-Tac-Toe with Artificial Intelligence Opponent
 [Demo](https://frc.baxleys.org/MinimaxTicTacToe/) - [GitHub repository](https://github.com/noahBax/Minimax-Tic-Tac-Toe-Implementation)
 
+<img src="https://noahbaxley.com/gitImages/tictactoe.png" height="370">
+
 This is an implementation of Tic-Tac-Toe I created which uses the minimax algorithm optimized with alpha-beta pruning to pin you against a computer opponent.
 Unfortunately for the human player, it is pretty much impossible to win. While it is a simple algorithm in concept, it is very efficient at what it
 does. You can really only lose or tie. Feel free to try though...
