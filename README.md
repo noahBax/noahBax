@@ -6,7 +6,7 @@ I am most experienced in JavaScript/TypeScript, HTML, CSS and Python, but I am a
 Let me show you some of my projects! Some of these are in repositories here on GitHub and you can check out the source code.
 
 ### Tetris Artificial Intelligence
-[Demo](https://frc.baxleys.org/Tetris/) - [GitHub repository](https://github.com/noahBax/Tetris-AI-Trainer)
+[Demo](https://noahbaxley.com/Tetris/) - [GitHub repository](https://github.com/noahBax/Tetris-AI-Trainer)
 
 <img src="/images/Tetris Game Screenshot Updated.png" alt="Screenshot from my Tetris game" height="350">
 
@@ -15,7 +15,7 @@ This was something small I did just to prove to myself that I could, but it is a
 If I'm being honest though, I built this to overcompensate for my lack of actual skill at Tetris.
 
 ### Tic-Tac-Toe with Artificial Intelligence Opponent
-[Demo](https://frc.baxleys.org/MinimaxTicTacToe/) - [GitHub repository](https://github.com/noahBax/Minimax-Tic-Tac-Toe-Implementation)
+[Demo](https://noahbaxley.com/MinimaxTicTacToe/) - [GitHub repository](https://github.com/noahBax/Minimax-Tic-Tac-Toe-Implementation)
 
 <img src="https://noahbaxley.com/gitImages/tictactoe.png" height="370">
 
@@ -24,7 +24,7 @@ Unfortunately for the human player, it is pretty much impossible to win. While i
 does. You can really only lose or tie. Feel free to try though...
 
 ### Sheep Game: A Multiplayer Online Fighting Game
-[Demo](https://frc.baxleys.org/sheepGame/)
+[Demo](https://noahbaxley.com/sheepGame/)
 
 <img src="https://github.com/noahBax/noahBax/blob/main/images/sheep1.png" width="420"><img src="https://github.com/noahBax/noahBax/blob/main/images/sheep2.png" width="420">
 
