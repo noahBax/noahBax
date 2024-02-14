@@ -6,12 +6,12 @@ I am most experienced in JavaScript/TypeScript, HTML, CSS and Python, but I am a
 Let me show you some of my projects! Some of these are in repositories here on GitHub and you can check out the source code.
 
 ### Tetris Artificial Intelligence
-[Demo](https://noahbaxley.com/Tetris/) - [GitHub repository](https://github.com/noahBax/Tetris-AI-Trainer)
+[Demo](https://noahbaxley.com/Tetris/) - [GitHub repository](https://github.com/noahBax/Tetris-AI)
 
 <img src="/images/Tetris Game Screenshot Updated.png" alt="Screenshot from my Tetris game" height="350">
 
 The demo links to a Tetris AI that I built. I trained my AI using an unsupervised genetic algorithm that I wrote in C++.
-This was something small I did just to prove to myself that I could, but it is also something cool I want to show off.
+I did this project to improve both my knowledge of C++ and my knowledge of Artificial Intelligence training algorithms.
 If I'm being honest though, I built this to overcompensate for my lack of actual skill at Tetris.
 
 ### Tic-Tac-Toe with Artificial Intelligence Opponent
