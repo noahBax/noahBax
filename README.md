@@ -1,15 +1,16 @@
 ## About me
 
-I am a recent graduate from Illinois Institute of Technology in Chicago where I
-studied computer science with a focus in Artificial Intelligence. My skillset is
-largely in software design with JavaScript/TypeScript, Python, and HTML/CSS.
+I am a software developer currently working for a small company near Champaign, IL.
+I graduated in 2024 from the Illinois Institute of Technology in Chicago with a
+bachelor's in Artificial Intelligence. My skillset is largely in software design with
+Python, JavaScript/TypeScript, and HTML/CSS, but I like to dabble in other languages
+(please not Haskell).
 
-My passion, if it wasn't obvious from my work, is applying what I have learned
-in regards to AI in the creations that I make!
+My passion is learning new things and understanding them on a deeper level. Most of my
+personal projects are just my attempts to teach myself a new mechanic.
 
 ## What I've Done
-Let me show you some of my projects! Some of these are in repositories here on
-GitHub and you can check out the source code.
+Some of these are in repositories here on GitHub and you can check out the source code.
 
 ### Tetris Artificial Intelligence
 [Demo](https://noahbaxley.com/Tetris/) - [GitHub repository](https://github.com/noahBax/Tetris-AI)
